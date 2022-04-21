@@ -1,8 +1,8 @@
 class Sonar:
     '''
-    For the fist part of the puzzle we have a method get_increase_measurement who counts the number of thimes a 
-    depth measurement increases from the previous measurement.
-    For the second part we have the method get_sum_comparation who compares windows of three consecutive measurements
+    For the fist part of the puzzle we have a method get_increase_measurement that counts the number of times a 
+    depth measurement has increased from the previous measurement.
+    For the second part we have the method get_sum_comparation that compares windows of three consecutive measurements
     and count the times the sums have increased. 
     PART I ANSWER: 1715.
     PART II ANSWER: 1739.
