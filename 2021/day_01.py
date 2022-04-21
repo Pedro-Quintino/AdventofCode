@@ -5,7 +5,7 @@ class Sonar:
     For the second part we have the method get_sum_comparation who compares windows of three consecutive measurements
     and count the times the sums have increased. 
     PART I ANSWER: 1715.
-    PART Ii ANSWER: 1739.
+    PART II ANSWER: 1739.
     '''
     
     def __init__(self, input_path = "day_01_sample.txt") -> None:
